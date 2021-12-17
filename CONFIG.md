@@ -3,23 +3,23 @@ This plugin was written with customizability in mind, thus there are a lot of co
 Below you can find the default options:
 ```ini
     em.staffReplyDmEnabled = on
-    em.staffReplyDmColor = "#2ECC71"
+    em.staffReplyDmColor = "#2F3136"
 
     em.staffReplyThreadEnabled = on
-    em.staffReplyThreadColor = "#2ECC71"
+    em.staffReplyThreadColor = "#2F3136"
     em.staffReplyDmTimestampEnabled = on
 
     em.userReplyThreadEnabled = on
-    em.userReplyThreadColor = "#9C32A8"
+    em.userReplyThreadColor = "#2F3136"
 
     em.systemReplyDmEnabled = on
-    em.systemReplyDmColor = "#7289DA"
+    em.systemReplyDmColor = "#2F3136"
 
     em.systemReplyThreadEnabled = on
-    em.systemReplyThreadColor = "#7289DA"
+    em.systemReplyThreadColor = "#2F3136"
 
     em.systemStaffEnabled = on
-    em.systemStaffColor = "#1AA4BC"
+    em.systemStaffColor = "#2F3136"
 
     # Miscellaneous Settings
     em.systemName = "System"
